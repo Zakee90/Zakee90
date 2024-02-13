@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zakee!
 - 👀 I’m interested in Crypto
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Web3
 
 <!---
